@@ -10,7 +10,9 @@ Organiser dans un dossier enfant templates les pages mapage et widget
 Consulter la page http://127.0.0.1:5000
 et charger le CV d'un candidat au format .txt
 
-3°) Lancer python server.py et décocher des compétences qui ne sont pas encore acquise ou qui ne font pas partie de la recherche actuelle du candidat.
+3°) Lancer python server.py,
+Consulter la page http://localhost:8080/mapage.html
+et décocher des compétences qui ne sont pas encore acquise ou qui ne font pas partie de la recherche actuelle du candidat.
 Valider
 
 L'application compare:
