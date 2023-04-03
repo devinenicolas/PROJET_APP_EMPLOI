@@ -4,7 +4,7 @@ Projet fin de stage Outil de Recherche d'emploi à partir d'une analyse textuell
 
 Organiser dans un dossier enfant templates les pages mapage et widget, les mots clés tirés du CV sont stockés dans le fichier wordscv.txt
 
-1°) Lancer python new_token.py Ctte requête vers l'API Pole Emploi Offres d'emplois génére un token actif 20 minutes pour le widget pole emploi. Coller manuellement ce jeton dans la page html du widget
+1°) Lancer python new_token.py Cette requête vers l'API Pole Emploi Offres d'emplois génère un token actif 20 minutes pour le widget pole emploi. Coller manuellement ce jeton dans la page html du widget
 
 2°) Lancer python app.py  
 Consulter la page http://127.0.0.1:5000
