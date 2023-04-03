@@ -1,117 +1,0 @@
-9 rue Pasteur
-92150 Suresnes
-M: 06 67 25 67 92
-nicolas@clement.as
-
-
-NICOLAS CLEMENT
-
-PROGICIELS ET APPLICATIONS: 
-EDITIQUE
-GED
-CONCEPTION DÉVELOPPEMENT
-=> Compétences d’analyse
-=> Qualité des livrables
-=> Capacité à trouver des solutions
-=> Orienté résultats
-=> Bonne communication
-=> Esprit d’équipeCOMPÉTENCES PRINCIPALES
-ServicesSecteurs d’activitéFonctions=> Services IT
-=> Solutions Front Office
-=> Solutions Back Office
-=> Equipes Projets
-=> Assurance Crédit
-=> Assurance, courtage
-=> Banque de détail
-=> Mutuelles, protection sociale
-=> Editeurs de Logiciels
-=> Développement éditique: Conception de modèles de documents
-=> Chef de Projet outils documents: progiciels et applications
-=> Conseil, architecture
-=> Suivi de prestataires
-Suites logicielles et MéthodologiesLangages: description, programmationLangues=> Composeurs de Documents
-=> Cycle en V
-=> Agile, Scrum
-=> Jira
-
-
-=> Python
-=> Langages de programmation des Composeurs de documents
-=> C#: Maintenance de code, librairies de fonctions
-=> Javascript
-=> Français langue maternelle
-=> Anglais niveau bilingue
-=> Espagnol niveau professionnel
-=> Portuguais niveau intermédiaire
-
-FORMATION INITIALE
-Diplômes2004
-2003ESSEC Cergy-Pontoise, Global BBA. Management, Export
-Singapore Management University. Finance d’entreprise
-
-FORMATION CONTINUE
-Certifications et Formations=> Python & Big Data. Greta
-=> Python & IOT: PCAP, Greta
-=> Javascript: Certificat 26 Academy
-=> C# : SuperProf
-=> VBA : SuperProf
-=> XML, XSD, XSLT, XSL-FO – Certification Learning Tree
-
-
-
-EXPERIENCES PROFESSIONNELLES
-BOIS-COLOMBES, FRANCEAVRIL 2019 - OCTOBRE 2021Oceane Consulting DMClientClient COFACE Assurance CréditProjetAu sein d’une équipe Agile et methodologie SCRUM, création et développement de modèles de documents. 
-Pour une nouvelle application de gestion d’offre produit Assurance Crédit déployée internationalement:
-Propositions commerciales, Etudes de clientèle, Contrats. Multilingues (7 langues).RoleSystem Analyst et Développeur EditiqueTâches* Gestion de Clauses de Contrats
-* Développement de modèles de documents
-* Documentation du projet et rédaction d’un guide
-* Tests et publicationsTechnosComposeur: BDOC Design 6.1, Programmation BDOC, maintenance de librairies C#, XML, XPath, JSONConsultantCHALONS EN CHAMPAGNE ET PARIS, FRANCE2018-2019Client AGEO Courtier en assurances individuelles et collectives, Centre de gestion
-Santé, Risques personnels, RetraiteProjets* Au sein d’une équipe Agile: Maintenance et dévelopement de modèles de documents et d’emails
-* Traitements Batch, Livraison et suivi des partenaires d’impression
-* Ateliers, Analyse et rédaction de spécifications pour un projet de migration GED, d’une GED historique à une GED Alfresco
-* Responsable d’équipe pour la livraison d’une nouvelle application utilisant l’éditiqueRoleChef de Projet Editique et GED, développeur EditiqueTâches* Montée de version du composeur Editique. De BDOC Suite v5.2 à v6.1
-* Analyse et Conception de modèles de documentsTechnosComposeur: Bdoc Design, Bdoc Edit, Bdoc Interactive. Applicatif : WindevExpectra TechPARIS, FRANCE2017-2018ClientClient BNP Paribas Banque de Détail FranceProjetPour de multiples applications du groupe: Process complet de développement et tests
-Développement de modèles de documents pour le Batch, le transactionnel, l’interactif
-Contrats, relevés bancaires, documents d’informationRoleConsultant EditiqueTâches* Développement éditique de modèles de documentsTechnosComposeur: ISIS Papyrus Correspondence FrameworkMEG Editique et SystèmeVINCENNES, SARAN ET BLOIS, FRANCE2017ClientClient HUMANIS Groupe de protection sociale, retraiteProjetEn vue de la modernisation d’une chaine documentaire éditique
-Au sein d’une équipe Conseil: Analyse technique de l’architecture existante, ateliers, étude des Nouvelles fonctionnalités demandées, préconisations.RoleConseilTâches* Animation d’ateliers métiers
-* Etablissement des critères d’évaluation
-* Evaluation des Editeurs: Démos, benchmark
-* Propositions d’architecture fonctionnelles et techniques
-* Rédaction de l’étudeTechnosEditeurs principaux du marché CCM-Editique. Composition, post-composition, ordonnanceurs
-
-LodecomPARIS, FRANCE2012-2014Editeur du logiciel Deciplus, leader des suites logicielles pour la gestion des salles de Sport
-Qualification des besoins clients pour un nouveau marché, support logicielRoleAvant venteTâches* Recueil de besoins
-* Documentation projet
-* Aide sur les nouvelles fonctionnalités du logicielTechnosDeciplus (Solution SAAS)Atelier de la VillettePARIS, FRANCE2011-2012Centre d’éditique. Entreprise adaptéeProjetManagement d’équipes, traitement documentaire
-Maintenance infrastructure IT, réseau avec prestataires
-Editique: Composition de documents. Traitements Batch
-Chaine documentaire sortanteRolesResponsable d’activité, Développeur Editique, Conducteur de presses numériquesTâches* Encadrement
-* Maintenance Software et Hardware, réseaux
-* Conception de modèles de documents
-* Traitements Batch
-* ImpressionTechnosPresses numériques: Ricoh, Xerox, Pitney Bowes
-Composeur Editique: Objectif Lune PrintShopMail, publipostagesAPF
-EntreprisesPARIS, FRANCE2010-2011Entreprise adaptée BPO: Prestataire de traitement de flux documentaires. Clients grands comptesProjetResponsable d’équipes en centre de service et sur sites clients
-Numérisation, capture de documents
-Routage et traitement postal (Entrant et sortant)RoleResponsable d’équipe et projetsTâches* Responsable de production: Machines, software, IT
-* Management
-* Documentation projetTechnosReadSoft, Pitney BowesAgence DevinePARIS, FRANCE2006 - 2010Agence photographiqueClientsEditeurs de livres et de magazines, Agences webRoleFondateur, responsable de productionTâches* Planning d’activité et de ressources, management
-* Développement commercial, gestion de droits d’auteurs
-* Editing d’un flux d’Images sur un Logiciel DAM
-* keywordingTechnosDigital Railroad DAM SoftwareAgence
-SunsetPARIS, FRANCE2005Agence photographique représentant 150 photographesClientsEditeurs de livres et de magazinesProjetsNumérisation et editing d’images, ventes de droits de reproduction
-Production et livraison d’images en haute résolutionRoleCommercial Iconographe exportTâches* Editing Photo, Vente auprès d’un portefeuille de clients presse et édition
-* Flux d’images sur un logiciel de DAMTechnosWimago
-CV Nicolas CLEMENT - ECM GED CCM	Page 10 sur 10
-
-                                      
- 
-
-
-
-RÉACTIS
-S.A. au capital de 38 280 euros
-Europarc de Pichaury – Bât. B5
-1330, avenue Guillibert de la Lauzière
-13856 AIX-EN-PROVENCE CEDEX 03
-
