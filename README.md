@@ -21,7 +21,7 @@ Ces compétences "hard skills" sont toutes en forte tension sur le marché de l'
 
 L'application compare cette liste de mots clés et leur présence dans le CV du candidat.
 
-Ceici donne une selection de mots clés pertinents pour le candidats. Mots clés auquels celui-ci n'aurait pas forcément spontanément pensé.
+Ceci donne une selection de mots clés pertinents pour le candidat. Mots clés auquels celui-ci n'aurait pas forcément spontanément pensé.
 
 5°) Avec le résultat de la selection des mots clés, faire une recherche géographique sur la page pole-emploi avec l'api activée localement ou sur le web à l'adresse: devine.fr
 
